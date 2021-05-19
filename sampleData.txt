@@ -1,0 +1,15 @@
+1|"Night King"|1000
+2|"John Snow"|27
+3|"Arya Stark"|18
+4|"Danearys"|29
+5|"Rob Stark"|25
+6|"Ramsay Bolton"|26
+7|"Cersei Lannister"|45
+8|"Tyrion  Lannister"|38
+9|"Jamie Lannister"|40
+10|"Peter Baylish"|50
+11|"Ned Stark"|52
+12|Margerie Tyrell"|28
+13|"Olenna Tyrell"|68
+14|"Ryuzaki"|19
+15|"Light Yagami"|20
